@@ -1,1 +1,3 @@
-# sec-plus-comptia
+# Security+ CompTIA
+## Important Information
+
